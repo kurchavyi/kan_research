@@ -1,0 +1,5 @@
+*.docx
+.ipynb_checkpoints/
+data/
+model/
+figures/
